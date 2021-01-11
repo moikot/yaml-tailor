@@ -1,5 +1,5 @@
 # yaml-tailor
-![ci](https://github.com/moikot/yaml-tailor/workflows/ci/badge.svg)
+![CI](https://github.com/moikot/yaml-tailor/workflows/CI/badge.svg)
 
 A tool for customizing YAML flies
 
