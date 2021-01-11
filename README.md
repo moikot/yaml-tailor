@@ -1,5 +1,6 @@
 # yaml-tailor
 ![CI](https://github.com/moikot/yaml-tailor/workflows/CI/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/moikot/yaml-tailor)](https://goreportcard.com/report/github.com/moikot/yaml-tailor)
 
 A tool for customizing YAML flies
 
